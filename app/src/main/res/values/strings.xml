@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CSE476-Assignment2</string>
+    <string name="home">Home</string>
+    <string name="content">Content</string>
+    <string name="profile">Profile</string>
+    <string name="index1">Current Location\'s Safety Index Is:</string>
+    <string name="tempdisplay">22</string>
+    <string name="index2">Home\'s Safety Index Is:</string>
+    <string name="stat1">Total GV Crimes Committed in Area</string>
+    <string name="stat2">Current Safety Index:</string>
+</resources>
